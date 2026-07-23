@@ -12,6 +12,16 @@
       "permanent": false
     },
     {
+      "source": "/serie",
+      "destination": "https://www.youtube.com/playlist?list=PLaOimLJo9CUo",
+      "permanent": false
+    },
+    {
+      "source": "/playlist",
+      "destination": "https://www.youtube.com/playlist?list=PLaOimLJo9CUo",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://www.youtube.com/@verdadebiblica_br",
       "permanent": false
