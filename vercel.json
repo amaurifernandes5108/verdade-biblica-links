@@ -22,6 +22,11 @@
       "permanent": false
     },
     {
+      "source": "/canal",
+      "destination": "https://www.youtube.com/@verdadebiblica_br",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://www.youtube.com/@verdadebiblica_br",
       "permanent": false
