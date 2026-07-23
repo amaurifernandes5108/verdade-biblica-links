@@ -3,12 +3,12 @@
   "redirects": [
     {
       "source": "/7tipos",
-      "destination": "https://www.youtube.com/watch?v=Fc7tu7CekDs",
+      "destination": "https://www.youtube.com/watch?v=BftP7vRN6_c",
       "permanent": false
     },
     {
       "source": "/pare-de-ajudar",
-      "destination": "https://www.youtube.com/watch?v=BftP7vRN6_c",
+      "destination": "https://www.youtube.com/watch?v=Fc7tu7CekDs",
       "permanent": false
     },
     {
