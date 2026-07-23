@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/7tipos",
+      "destination": "https://www.youtube.com/@verdadebiblica_br",
+      "permanent": false
+    },
+    {
+      "source": "/pare-de-ajudar",
+      "destination": "https://www.youtube.com/@verdadebiblica_br",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "https://www.youtube.com/@verdadebiblica_br",
+      "permanent": false
+    }
+  ]
+}
